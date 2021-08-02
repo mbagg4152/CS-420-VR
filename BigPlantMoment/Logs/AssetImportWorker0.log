@@ -196,3 +196,4 @@ Received Import Request.
 Start importing Assets/BlenderStuff/another.blend using Guid(6fbb646098d29bf49972158464f7be62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106185ee8e12848ea69c195f8eedc14c') in 0.017433 seconds 
   Import took 0.020964 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
