@@ -700,3 +700,4 @@ Received Import Request.
 Start importing Assets/AssetsCustomized/HeavenTree.prefab using Guid(eacb58d04b9390245ac7af53a0f8db90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7da3c9ec432b861581d76e074274b4') in 0.028727 seconds 
   Import took 0.033737 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
