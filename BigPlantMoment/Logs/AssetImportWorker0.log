@@ -2310,3 +2310,1068 @@ Received Import Request.
 Start importing Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Prefabs/Birch_tree2.prefab using Guid(d0fef57aa8c0772448a3a57390d3c153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acf779067529614a993094c34516be5') in 0.028646 seconds 
   Import took 0.036036 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 164.977062 seconds.
+  path: Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/diffuse.png
+  artifactKey: Guid(e4ef43ca4b5fdaf44b909d629252d6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/diffuse.png using Guid(e4ef43ca4b5fdaf44b909d629252d6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556168217108b3fbfe9fe64376288f65') in 0.039265 seconds 
+  Import took 0.045162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/shadow.png
+  artifactKey: Guid(a41ceb3a863cded40ba2e1dd6ed5c19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/shadow.png using Guid(a41ceb3a863cded40ba2e1dd6ed5c19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2891992f5d6309a81291c7867c8c4b8') in 0.020981 seconds 
+  Import took 0.026365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/normal_specular.png
+  artifactKey: Guid(3b5ad4b713153e44493cc8cc7dd3b767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/normal_specular.png using Guid(3b5ad4b713153e44493cc8cc7dd3b767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27c71b061a3a20ac7d843326365f0cd') in 0.022642 seconds 
+  Import took 0.028303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/translucency_gloss.png
+  artifactKey: Guid(688fe37b52f46e34382b6d76cfa8430f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Realistic Props Pack/Source/Flower/Tree_Textures/translucency_gloss.png using Guid(688fe37b52f46e34382b6d76cfa8430f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c725e13516e381fba02c2a0ce34c4de') in 0.021964 seconds 
+  Import took 0.027439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.869826 seconds.
+  path: Assets/Nature Realistic Props Pack/Source/Rock1/Rock1.fbx
+  artifactKey: Guid(775b436109580664e9d5d8c6e933e49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Realistic Props Pack/Source/Rock1/Rock1.fbx using Guid(775b436109580664e9d5d8c6e933e49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7b9a659a15f74ce31805299c0aac21') in 0.138460 seconds 
+  Import took 0.146217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.454430 seconds.
+  path: Assets/Nature Realistic Props Pack/Source/Rock2/Rock2.fbx
+  artifactKey: Guid(7141f2e9403ff2d45b3b573f4f3f65eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nature Realistic Props Pack/Source/Rock2/Rock2.fbx using Guid(7141f2e9403ff2d45b3b573f4f3f65eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd60485e68772672388d9330e9b98dd9') in 0.120933 seconds 
+  Import took 0.128956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.660037 seconds.
+  path: Assets/PhotoscannedToadstools/Meshes/Toadstool01.fbx
+  artifactKey: Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Meshes/Toadstool01.fbx using Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21144946f0bae0ebbaffb7d1523d6152') in 0.127048 seconds 
+  Import took 0.138399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/PhotoscannedToadstools/Meshes/Toadstool03.fbx
+  artifactKey: Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Meshes/Toadstool03.fbx using Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4e587a489d2c395c9928e1d828fe62') in 0.169955 seconds 
+  Import took 0.181114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/PhotoscannedToadstools/Meshes/Toadstool02.fbx
+  artifactKey: Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Meshes/Toadstool02.fbx using Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361b3bf0d5d363eb97fbf4ddcad2b7af') in 0.121671 seconds 
+  Import took 0.132320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.665051 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool01_Albedo.png
+  artifactKey: Guid(8dc25f62935d3054f8842d18f90de5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool01_Albedo.png using Guid(8dc25f62935d3054f8842d18f90de5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdcc13c19ec330e67ea436682b1f52db') in 0.024531 seconds 
+  Import took 0.029724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool02_Albedo.png
+  artifactKey: Guid(9b801b9a071988b4baadf767ad9ec128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool02_Albedo.png using Guid(9b801b9a071988b4baadf767ad9ec128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b8c9e8f1466b00613a8b7ed89f698c') in 0.038225 seconds 
+  Import took 0.043381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool03_Albedo.png
+  artifactKey: Guid(cd91f185e706b2149911cc7048af3be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool03_Albedo.png using Guid(cd91f185e706b2149911cc7048af3be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728b1f4a86b470c37fe0d185862c3592') in 0.025983 seconds 
+  Import took 0.031505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool01_Normal.png
+  artifactKey: Guid(79eb4144a718ef441ab1ee5831f6d809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool01_Normal.png using Guid(79eb4144a718ef441ab1ee5831f6d809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc9718e09998e2c0e0480e6c320d0df') in 0.040447 seconds 
+  Import took 0.047431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool03_AO.png
+  artifactKey: Guid(d593e4bb92af0f441b95cfe09a0347b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool03_AO.png using Guid(d593e4bb92af0f441b95cfe09a0347b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db6d12c4848d2fd3803607f0dacd224') in 0.025195 seconds 
+  Import took 0.030778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool01_AO.png
+  artifactKey: Guid(f629bd0166266fb42bd955488861c851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool01_AO.png using Guid(f629bd0166266fb42bd955488861c851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18860ad53e835b88cbbd5552f218d8bb') in 0.022884 seconds 
+  Import took 0.028038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool02_AO.png
+  artifactKey: Guid(f70d9ab7d35e5d547862775831f5d7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool02_AO.png using Guid(f70d9ab7d35e5d547862775831f5d7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd382e46b52595c060d52c19a0470d962') in 0.023874 seconds 
+  Import took 0.028947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool03_Normal.png
+  artifactKey: Guid(999f2d0fc75e1ce46a64cf20e14e5305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool03_Normal.png using Guid(999f2d0fc75e1ce46a64cf20e14e5305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3979ea5459421c4bbb574bee00c3c2') in 0.039703 seconds 
+  Import took 0.047443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/PhotoscannedToadstools/Textures/Toadstool02_Normal.png
+  artifactKey: Guid(ba51315c369b3ba41989d063beab2345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures/Toadstool02_Normal.png using Guid(ba51315c369b3ba41989d063beab2345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775971a5693e9d55f05a7888e2ffa689') in 0.042961 seconds 
+  Import took 0.049573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.521446 seconds.
+  path: Assets/PhotoscannedToadstools/Meshes/Toadstool01.fbx
+  artifactKey: Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Meshes/Toadstool01.fbx using Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470b5c15fc1e11cc8e2ae96a5d0ca2e6') in 0.173080 seconds 
+  Import took 0.186148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.106091 seconds.
+  path: Assets/PhotoscannedToadstools/Meshes/Toadstool02.fbx
+  artifactKey: Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Meshes/Toadstool02.fbx using Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7de694e679027c2d4f4619ea74040a') in 0.148040 seconds 
+  Import took 0.158749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.228555 seconds.
+  path: Assets/PhotoscannedToadstools/Meshes/Toadstool03.fbx
+  artifactKey: Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Meshes/Toadstool03.fbx using Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d18784eae716d8ea9210f01f686578e') in 0.143983 seconds 
+  Import took 0.157684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.286961 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad1e5d16c07ca5897a936d2a621443d') in 0.198298 seconds 
+  Import took 0.222744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.178482 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab
+  artifactKey: Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab using Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc2cbb25ea21b7c817ad8ebc0cf5dc7') in 0.026246 seconds 
+  Import took 0.032387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.163993 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Mush.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Mush.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ca859f490ba565a6defdbf55004faa') in 0.026514 seconds 
+  Import took 0.034131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.497805 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadA.fbx
+  artifactKey: Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadA.fbx using Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f845f6742250d7bc1030db9896706508') in 0.096305 seconds 
+  Import took 0.103037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.895708 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Materials
+  artifactKey: Guid(f3397a8bb1b0f864ebab3fb1658492e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Materials using Guid(f3397a8bb1b0f864ebab3fb1658492e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6aac306862af7689991f054e803e7a') in 0.008050 seconds 
+  Import took 0.014481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001446 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Materials
+  artifactKey: Guid(f3397a8bb1b0f864ebab3fb1658492e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Materials using Guid(f3397a8bb1b0f864ebab3fb1658492e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6aac306862af7689991f054e803e7a') in 0.004019 seconds 
+  Import took 0.010911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070696 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Materials/Toadstool01.mat
+  artifactKey: Guid(b9bf8d1111a1d5748a8c313d961be5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Materials/Toadstool01.mat using Guid(b9bf8d1111a1d5748a8c313d961be5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1893a4d0c3c4005c4c11a356690d1407') in 0.029693 seconds 
+  Import took 0.035317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.299758 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadB.fbx
+  artifactKey: Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadB.fbx using Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d34effc096f4be3420cd959e91e21b') in 0.092540 seconds 
+  Import took 0.097970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.538836 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadC.fbx
+  artifactKey: Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadC.fbx using Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f56d3f715e95b7135651ad424ad21c') in 0.097297 seconds 
+  Import took 0.102543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.697753 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3ecb18f2785248595cb8ce98cd25fb') in 0.160272 seconds 
+  Import took 0.177526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.808933 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832bb0331bdde5310ddaa4a70c7cfbbd') in 0.174427 seconds 
+  Import took 0.189998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.690711 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce131af958ed742adf4b812ffda42ec1') in 0.186057 seconds 
+  Import took 0.211397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 169.275957 seconds.
+  path: Assets/PhotoscannedToadstools/Textures
+  artifactKey: Guid(9750f34008d859445ad6758ea9d4cdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Textures using Guid(9750f34008d859445ad6758ea9d4cdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abd5296686bee788c475057ccaed27c') in 0.009178 seconds 
+  Import took 0.015042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.828397 seconds.
+  path: Assets/PhotoscannedToadstools/Prefabs/ToadstoolsGroup01.prefab
+  artifactKey: Guid(27c696e6a25475541a60f211c49dcaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhotoscannedToadstools/Prefabs/ToadstoolsGroup01.prefab using Guid(27c696e6a25475541a60f211c49dcaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8ee85a4549cad9e20f6e8e5ffa6d6b') in 0.151415 seconds 
+  Import took 0.168504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.439178 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6041e65d9945e86a48fec8c6666696') in 0.214463 seconds 
+  Import took 0.236826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.218268 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Toadstool01.fbx
+  artifactKey: Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Toadstool01.fbx using Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c75075b3c1fcd9f1023b057df6f2b51') in 0.105270 seconds 
+  Import took 0.113396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.427637 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Toadstool02.fbx
+  artifactKey: Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Toadstool02.fbx using Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56ffed3edd00273fbde6c7ab77043c7') in 0.087095 seconds 
+  Import took 0.094681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.098713 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Toadstool03.fbx
+  artifactKey: Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Toadstool03.fbx using Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57478fa7f0be5682933bd6373a7af32a') in 0.109134 seconds 
+  Import took 0.116331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.195336 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3607d965da341deec7898ff49b870dd2') in 0.195391 seconds 
+  Import took 0.221960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.599770 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12e74c95f042230d7a759d9e081baa5') in 0.196940 seconds 
+  Import took 0.218619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.959555 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/ToadGroup.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c01f942326c2a20f9fb7e5ff4e47af3') in 0.158421 seconds 
+  Import took 0.191979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.150735 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Toadstool02.fbx
+  artifactKey: Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Toadstool02.fbx using Guid(11fc9695fdee2a04f858822efbaaa0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c4fa47a3b372b1b17bb45f6f77141c') in 0.086065 seconds 
+  Import took 0.092122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.242523 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Toadstool01.fbx
+  artifactKey: Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Toadstool01.fbx using Guid(f86e0e83a78f2844b80e5ce5785780b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4109087474925b3c09aa737b5e98b5') in 0.119126 seconds 
+  Import took 0.127699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.738707 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Toadstool03.fbx
+  artifactKey: Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Toadstool03.fbx using Guid(ddf0da98c182f534880f70c8ece50e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f2c772ec79953f412444c3fcb9089e3') in 0.108159 seconds 
+  Import took 0.117249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.888501 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Mush.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Mush.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3d82f4c800a3850c727101d5e91e56c') in 0.032572 seconds 
+  Import took 0.040471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.786255 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Mush.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Mush.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646b60dd685edcd7775767c89628d7cd') in 0.036230 seconds 
+  Import took 0.092620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.759574 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Mush.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Mush.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b7a156229d85decb88514845ddc48d') in 0.033400 seconds 
+  Import took 0.047946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.326054 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/Mush.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/Mush.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9178b9ba1b2e581626566cb82591c70') in 0.023902 seconds 
+  Import took 0.032436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.071212 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab
+  artifactKey: Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab using Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd26db645539527a8511bf98226c386d') in 0.030781 seconds 
+  Import took 0.037865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.579224 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab
+  artifactKey: Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab using Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdba64661d5dfb518a126e0cec8e15db') in 0.033747 seconds 
+  Import took 0.042785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015879 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab
+  artifactKey: Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab using Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdba64661d5dfb518a126e0cec8e15db') in 0.022765 seconds 
+  Import took 0.034095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.682450 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab
+  artifactKey: Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/BoletusEdulis.prefab using Guid(ea10774542693594183ed8bc58125543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe838a59e285dbbfa55073c03e2a471') in 0.019102 seconds 
+  Import took 0.026676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.818619 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs
+  artifactKey: Guid(728a68cd5eeefe8468a970ec52fd82aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs using Guid(728a68cd5eeefe8468a970ec52fd82aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c90d79b36c2cc466793b56c1d90f4dc') in 0.020664 seconds 
+  Import took 0.026912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.629127 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs/SRP
+  artifactKey: Guid(d18151eac12915846bce3d3746e3d004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs/SRP using Guid(d18151eac12915846bce3d3746e3d004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30595e8259e0cbc43f33da39589ab42') in 0.020387 seconds 
+  Import took 0.028368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.345063 seconds.
+  path: Assets/SkythianCat/Hand_Painted_Nature_Kit_LITE
+  artifactKey: Guid(605a6b0b24c0a8245b8935c724e73656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Hand_Painted_Nature_Kit_LITE using Guid(605a6b0b24c0a8245b8935c724e73656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f3d9c98afe4fbcf547f72835503b14') in 0.013325 seconds 
+  Import took 0.021108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.966404 seconds.
+  path: Assets/plants2/Materials
+  artifactKey: Guid(3a32c55b348426b4dabff2f23e8bd1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/plants2/Materials using Guid(3a32c55b348426b4dabff2f23e8bd1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e47485f748de12a191cbda4a3c78753') in 0.009059 seconds 
+  Import took 0.019236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.636556 seconds.
+  path: Assets/YughuesFreeBushes2018/Prefabs
+  artifactKey: Guid(0c3e980a12e9f2b41b2129725bd6b5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YughuesFreeBushes2018/Prefabs using Guid(0c3e980a12e9f2b41b2129725bd6b5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6708004a3ca4c2ac14577218d036e7') in 0.013403 seconds 
+  Import took 0.020396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.110611 seconds.
+  path: Assets/New Terrain 2.asset
+  artifactKey: Guid(79b39be40c9bb80418e3461afebe8434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 2.asset using Guid(79b39be40c9bb80418e3461afebe8434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6c9f5034eb83141589a8a31b9a1663') in 0.034444 seconds 
+  Import took 0.043014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/TerrainData_2c96db3c-72dc-4c03-8e8d-e4341c5a7790.asset
+  artifactKey: Guid(50ab99e5e8ff45a4eb8dbe76cc1c8057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_2c96db3c-72dc-4c03-8e8d-e4341c5a7790.asset using Guid(50ab99e5e8ff45a4eb8dbe76cc1c8057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab1c02a3f711c502aa1175cd447ba9e') in 0.018492 seconds 
+  Import took 0.024307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/TerrainData_2b053e98-04f5-4453-a261-cf24ead3260a.asset
+  artifactKey: Guid(26a2bafc9cbc5744695d7268cfaaea89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_2b053e98-04f5-4453-a261-cf24ead3260a.asset using Guid(26a2bafc9cbc5744695d7268cfaaea89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2a27baabbf533d26f826d9fae4bede') in 0.018782 seconds 
+  Import took 0.026754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/TerrainData_13cf4667-8ac9-4753-beb6-313d40091757.asset
+  artifactKey: Guid(e6536819811f7704ca7f00556356e94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_13cf4667-8ac9-4753-beb6-313d40091757.asset using Guid(e6536819811f7704ca7f00556356e94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0547bc77b7aea68031e6b9a266f52054') in 0.029310 seconds 
+  Import took 0.037628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/TerrainData_5a85aba2-f67e-48d5-9a68-18408736b0d5.asset
+  artifactKey: Guid(7ddb3701d52866f4396bfc84efc2d409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5a85aba2-f67e-48d5-9a68-18408736b0d5.asset using Guid(7ddb3701d52866f4396bfc84efc2d409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfb72f5e2b4d383a1205789f63c26ad') in 0.018948 seconds 
+  Import took 0.025427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/TerrainData_7ecd4b1d-59c1-4b57-ba4b-d3e6d834c5d2.asset
+  artifactKey: Guid(5b839d58a8fa82343b6ce4b05a1f85c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7ecd4b1d-59c1-4b57-ba4b-d3e6d834c5d2.asset using Guid(5b839d58a8fa82343b6ce4b05a1f85c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a520c7f5f4bcf131270103cb11b1bbe') in 0.019347 seconds 
+  Import took 0.026600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/TerrainData_9fbbf21e-1465-46c1-b501-c06f6dab7772.asset
+  artifactKey: Guid(944dd7ca4badbcc4e96d359c4538569b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_9fbbf21e-1465-46c1-b501-c06f6dab7772.asset using Guid(944dd7ca4badbcc4e96d359c4538569b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61e503882c823d8b3689ff51ad3e4c7') in 0.019678 seconds 
+  Import took 0.026713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/TerrainData_0f81f2f8-9a7e-461a-a0a1-07568aac8e61.asset
+  artifactKey: Guid(a9783a01a9903a74d81ddd3d9984c634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_0f81f2f8-9a7e-461a-a0a1-07568aac8e61.asset using Guid(a9783a01a9903a74d81ddd3d9984c634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d922e3ed053d15a791344b9fdbd9a9') in 0.019260 seconds 
+  Import took 0.027435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/TerrainData_5189a037-d604-43e0-80fd-7e0e9d00a5af.asset
+  artifactKey: Guid(8c480a98d47e26841bba7a04ab2146b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5189a037-d604-43e0-80fd-7e0e9d00a5af.asset using Guid(8c480a98d47e26841bba7a04ab2146b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f323f29833e878e356ab13146741c03') in 0.020811 seconds 
+  Import took 0.028444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/TerrainData_36927c03-3494-4ec3-944a-45a031771d8e.asset
+  artifactKey: Guid(ca86b9b0e6da34b49ae4d21181e55e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_36927c03-3494-4ec3-944a-45a031771d8e.asset using Guid(ca86b9b0e6da34b49ae4d21181e55e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba70d27b2f1a108398ce779e1e82708') in 0.019206 seconds 
+  Import took 0.026046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.343540 seconds.
+  path: Assets/AdventureForge/PreFab
+  artifactKey: Guid(c4c09c511caac8643a4a55a0922e08b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab using Guid(c4c09c511caac8643a4a55a0922e08b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530f7e436f8351cf92d6ac5f464f542c') in 0.009666 seconds 
+  Import took 0.015453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.976938 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom
+  artifactKey: Guid(92b765bb0c7c12243b4f8319d7a7c6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom using Guid(92b765bb0c7c12243b4f8319d7a7c6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02649ab6418287bb8793c2389e051464') in 0.017679 seconds 
+  Import took 0.023204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.871550 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous
+  artifactKey: Guid(aab612d14aaaf3e4a972dac91cf4b0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous using Guid(aab612d14aaaf3e4a972dac91cf4b0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed05677cd319ed9f6758bda826fbbb3') in 0.009052 seconds 
+  Import took 0.014636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous
+  artifactKey: Guid(aab612d14aaaf3e4a972dac91cf4b0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous using Guid(aab612d14aaaf3e4a972dac91cf4b0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed05677cd319ed9f6758bda826fbbb3') in 0.003492 seconds 
+  Import took 0.009831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.846124 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_01
+  artifactKey: Guid(b3612ee9559cbc64995b3a534316ba45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_01 using Guid(b3612ee9559cbc64995b3a534316ba45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b199a1576531c201c60543899274d98b') in 0.009227 seconds 
+  Import took 0.015839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058008 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_01/CapBellShaped_StalkBolbous_LOD0_Type01.prefab
+  artifactKey: Guid(f37617cacbbdd7044a7ead5889c835b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_01/CapBellShaped_StalkBolbous_LOD0_Type01.prefab using Guid(f37617cacbbdd7044a7ead5889c835b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a029c1000e4a0f2cef6844fcb3e7383') in 0.040827 seconds 
+  Import took 0.047715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.195376 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_03/CapBellShaped_StalkBolbous_LOD0_Type03.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_03/CapBellShaped_StalkBolbous_LOD0_Type03.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e335e2b0f457cee7536321e6fe5584cb') in 0.108283 seconds 
+  Import took 0.117046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.534571 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_03
+  artifactKey: Guid(3609ae0111025db4590d534e25f15d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_03 using Guid(3609ae0111025db4590d534e25f15d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebda117557e688202ad0ecd4f9b59e5') in 0.008704 seconds 
+  Import took 0.014935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000975 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_03
+  artifactKey: Guid(3609ae0111025db4590d534e25f15d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapBell_StalkBolbous/CapBell_StalkBolbous_03 using Guid(3609ae0111025db4590d534e25f15d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebda117557e688202ad0ecd4f9b59e5') in 0.003599 seconds 
+  Import took 0.011308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.632972 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapConvex_StalkBolbous/CapConvex_StalkBolbous_01/CapConvex_StalkBolbous_LOD0_Type01.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapConvex_StalkBolbous/CapConvex_StalkBolbous_01/CapConvex_StalkBolbous_LOD0_Type01.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78ab81094b01cee03ce9dbe3153db8a') in 0.031252 seconds 
+  Import took 0.036561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.708214 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapConvex_StalkBolbous/CapConvex_StalkBolbous_04/CapConvex_StalkBolbous_LOD0_Type04.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapConvex_StalkBolbous/CapConvex_StalkBolbous_04/CapConvex_StalkBolbous_LOD0_Type04.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc690f0bf65150b31172abc7213bf15') in 0.024549 seconds 
+  Import took 0.030009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.220880 seconds.
+  path: Assets/AssetsSelectedCustomized/CapConvex_StalkBolbous_LOD0_Type04.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/CapConvex_StalkBolbous_LOD0_Type04.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0624e8ae608ebd52c75cf7bfd78bcb3') in 0.030674 seconds 
+  Import took 0.041573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.496557 seconds.
+  path: Assets/AdventureForge/Geometry
+  artifactKey: Guid(d4f127ef8dc4f6a4d94f58797e6349d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/Geometry using Guid(d4f127ef8dc4f6a4d94f58797e6349d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4a46e06f7e5293d63834d5d502042a') in 0.008814 seconds 
+  Import took 0.015174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544829 seconds.
+  path: Assets/AdventureForge/Geometry/Mushroom
+  artifactKey: Guid(db7a92f92eb643b42bfc320af1e8dac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/Geometry/Mushroom using Guid(db7a92f92eb643b42bfc320af1e8dac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61d37ad5d79789bf5604d1b174f9557') in 0.013447 seconds 
+  Import took 0.019974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.742452 seconds.
+  path: Assets/AdventureForge/Geometry/Mushroom/CapBell_StalkBolbous
+  artifactKey: Guid(af934d00c7bbec44d97cbd9490fd5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/Geometry/Mushroom/CapBell_StalkBolbous using Guid(af934d00c7bbec44d97cbd9490fd5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bc3006b34aeb0ceb357faac5219762') in 0.003067 seconds 
+  Import took 0.009271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.575322 seconds.
+  path: Assets/AdventureForge/Geometry/Mushroom/CapBell_StalkBolbous/CapBellShaped_StalkBolbous_01
+  artifactKey: Guid(57da249d210daac468ee9a3c7fe90e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/Geometry/Mushroom/CapBell_StalkBolbous/CapBellShaped_StalkBolbous_01 using Guid(57da249d210daac468ee9a3c7fe90e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2eab7ed55641bb6167342e32e632cda') in 0.008804 seconds 
+  Import took 0.015312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052465 seconds.
+  path: Assets/AdventureForge/Geometry/Mushroom/CapBell_StalkBolbous/CapBellShaped_StalkBolbous_01/CapBellShaped_StalkBolbous_LOD0_Type01.fbx
+  artifactKey: Guid(d046e387fb2f18041936ce78e3c5d5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/Geometry/Mushroom/CapBell_StalkBolbous/CapBellShaped_StalkBolbous_01/CapBellShaped_StalkBolbous_LOD0_Type01.fbx using Guid(d046e387fb2f18041936ce78e3c5d5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0679f815049809b576e6cfc11fb60610') in 0.033163 seconds 
+  Import took 0.040112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.322069 seconds.
+  path: Assets/AssetsSelectedCustomized/CapBellShaped_StalkBolbous_LOD0_Type03.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/CapBellShaped_StalkBolbous_LOD0_Type03.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8305a08f3a0d927e640751284ef161a2') in 0.023014 seconds 
+  Import took 0.028688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/AssetsSelectedCustomized/CapConvex_StalkBolbous_LOD0_Type01.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/CapConvex_StalkBolbous_LOD0_Type01.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c17a3fd357b36929f41aa3ea76c15cc') in 0.018373 seconds 
+  Import took 0.023910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.994014 seconds.
+  path: Assets/AdventureForge/PreFab/Mushroom/CapConvex_StalkBolbous
+  artifactKey: Guid(52cdc78de1ba57e4588ec7a92a151309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureForge/PreFab/Mushroom/CapConvex_StalkBolbous using Guid(52cdc78de1ba57e4588ec7a92a151309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b83ffb39543916a18ed1f7c0608ca9ca') in 0.009082 seconds 
+  Import took 0.016162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.033295 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a8f72a8af2171dbf3c41e58f11833a8') in 0.023567 seconds 
+  Import took 0.031607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 314.764884 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c41a5b80f6f06b2b31697207c473a3') in 0.045500 seconds 
+  Import took 0.054533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004613 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c41a5b80f6f06b2b31697207c473a3') in 0.027113 seconds 
+  Import took 0.037301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.138261 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc347d083e52cc60bd84fd970ae04b7') in 0.031701 seconds 
+  Import took 0.039191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.263512 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2120be73900d9b1d529690a85064973f') in 0.030966 seconds 
+  Import took 0.038959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 501.942548 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16aa900a527eb338d7385b262acc2442') in 0.228738 seconds 
+  Import took 0.250451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.464455 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99dcbd3d921fb306193b1a1d9b751f97') in 0.029339 seconds 
+  Import took 0.037789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010275 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99dcbd3d921fb306193b1a1d9b751f97') in 0.025153 seconds 
+  Import took 0.035336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.761273 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761230e203ec3f1798fe0ecd841b62e1') in 0.054110 seconds 
+  Import took 0.062263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.924779 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c605b95ed4230e08d54aceed887369') in 0.028170 seconds 
+  Import took 0.035353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.464532 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3d0bcb17b5b52733d3f5826f11e322') in 0.029604 seconds 
+  Import took 0.039400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.804952 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63af6906a940a81c443d344eb6210fd') in 0.085001 seconds 
+  Import took 0.092000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.725142 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7384bc850d99757bba7451a3e7947c2d') in 0.029518 seconds 
+  Import took 0.038500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.982439 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07fcffa3bd0f4fc47c36d556b31aa5d3') in 0.022508 seconds 
+  Import took 0.029231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001530 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07fcffa3bd0f4fc47c36d556b31aa5d3') in 0.022194 seconds 
+  Import took 0.030042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.857530 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2eb35511d82bf3ac069a395758efe28') in 0.040159 seconds 
+  Import took 0.049523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.289971 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c93d264b381789988e5ee090fa629ca') in 0.021379 seconds 
+  Import took 0.027274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.756848 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022c98c0c51dc9d65808d7a3dd327b50') in 0.024886 seconds 
+  Import took 0.033660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011943 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022c98c0c51dc9d65808d7a3dd327b50') in 0.022097 seconds 
+  Import took 0.031249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544106 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b34525aafc086f76b2b0489eb5045b') in 0.022892 seconds 
+  Import took 0.028724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.507238 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1affeff03b9563a015fab51ab01b4b3b') in 0.027720 seconds 
+  Import took 0.034977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.191531 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71634126ce5e79cd37714379cc7bf910') in 0.025411 seconds 
+  Import took 0.033099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.617668 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199f80fab217e99c3e64e922bc30f43f') in 0.029317 seconds 
+  Import took 0.037613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012828 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199f80fab217e99c3e64e922bc30f43f') in 0.021295 seconds 
+  Import took 0.028516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.866274 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab
+  artifactKey: Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricA.prefab using Guid(c79a726f1bf80484a859f6bb4ce4959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4525e3babb5bd3124d0247408348b7') in 0.020948 seconds 
+  Import took 0.026684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.267057 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2bd9c7d7403698b0938e3aa08ebf39') in 0.038208 seconds 
+  Import took 0.047017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.595041 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff9b5bee2b71730ad8169a5a35d4a08') in 0.023384 seconds 
+  Import took 0.030343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011070 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff9b5bee2b71730ad8169a5a35d4a08') in 0.019450 seconds 
+  Import took 0.025931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.531589 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab
+  artifactKey: Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/FlyAgaricB.prefab using Guid(a5d1138742629d940ba6df4373f57310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e38fe024b41787d9439277b77ad2bcd') in 0.027376 seconds 
+  Import took 0.033127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.548288 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9c21b46b5ce42846f86ee3615ba0f1') in 0.027098 seconds 
+  Import took 0.035901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005101 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9c21b46b5ce42846f86ee3615ba0f1') in 0.017872 seconds 
+  Import took 0.026494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.541826 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca77b7a83ba316c116903d20f47ad9f') in 0.052736 seconds 
+  Import took 0.059389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002977 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca77b7a83ba316c116903d20f47ad9f') in 0.025763 seconds 
+  Import took 0.039728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.468198 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab
+  artifactKey: Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/KingTrumpet.prefab using Guid(dea84a3662be77b4bad1db42d2b32262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8476c5cfba4598c2f44ac7a03f708c') in 0.014770 seconds 
+  Import took 0.021042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.346116 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f3cde3f01e00125e42c8a5e713343c5') in 0.030669 seconds 
+  Import took 0.038845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000743 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f3cde3f01e00125e42c8a5e713343c5') in 0.031488 seconds 
+  Import took 0.039772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.960833 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab
+  artifactKey: Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/YellowFlyAgaric.prefab using Guid(9403b9205633aa24bb70b9081aef4e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041d508de72bab4301413c9e17f56517') in 0.027573 seconds 
+  Import took 0.036315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.807973 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0eb06f0d882d48159b85c83e5eaa3b') in 0.170309 seconds 
+  Import took 0.186468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.412995 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b83e938e27ed94b4e07723cc4ac428f5') in 0.192712 seconds 
+  Import took 0.208525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.463941 seconds.
+  path: Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab
+  artifactKey: Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/shroom/PantherCaps.prefab using Guid(a2d90428d4402a64ca9aa7ae580033f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8cfa775dc2eac2d751e131848fd8e0') in 0.129499 seconds 
+  Import took 0.151552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.523663 seconds.
+  path: Assets/AssetsSelectedCustomized/trees/LongLeafA.prefab
+  artifactKey: Guid(1e6b9959cd96c6e4d938dd7814674b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/trees/LongLeafA.prefab using Guid(1e6b9959cd96c6e4d938dd7814674b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de65ec072577826131889e6a147fea0a') in 0.107332 seconds 
+  Import took 0.116558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.189080 seconds.
+  path: Assets/AssetsSelectedCustomized/trees/LongLeafB.prefab
+  artifactKey: Guid(e22e6427d673f8b47884f2c5662195aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/trees/LongLeafB.prefab using Guid(e22e6427d673f8b47884f2c5662195aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5925efe11c39c2cae96f2667973af84b') in 0.075946 seconds 
+  Import took 0.083841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.557147 seconds.
+  path: Assets/AssetsSelectedCustomized/trees/PonderosaA.fbx
+  artifactKey: Guid(d2afb700ab12fcc4db5b9567f3a698dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/trees/PonderosaA.fbx using Guid(d2afb700ab12fcc4db5b9567f3a698dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6295739ce671db50a018accd08fc46a0') in 0.034617 seconds 
+  Import took 0.041726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.362692 seconds.
+  path: Assets/AssetsSelectedCustomized/trees/PonderosaB.fbx
+  artifactKey: Guid(6a08450e9ce0dde4a8c7594f7297582a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/trees/PonderosaB.fbx using Guid(6a08450e9ce0dde4a8c7594f7297582a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cc27a2aa51a64a8802b88c23e5af35') in 0.049800 seconds 
+  Import took 0.058385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.247445 seconds.
+  path: Assets/AssetsSelectedCustomized/trees/LongLeafA.prefab
+  artifactKey: Guid(1e6b9959cd96c6e4d938dd7814674b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsSelectedCustomized/trees/LongLeafA.prefab using Guid(1e6b9959cd96c6e4d938dd7814674b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49b39e42f636c13650ef7f12103cae2') in 0.081796 seconds 
+  Import took 0.090056 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
