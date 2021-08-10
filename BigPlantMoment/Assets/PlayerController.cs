@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     CharacterController control;
-    public float mvmtSpeed = 3;
+    public float mvmtSpeed = 7;
     public float grav = 9.8f;
     private float vel = 0;
  
