@@ -84,7 +84,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
+  m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -190,7 +190,7 @@ Material:
     - _SquashAmount: 1
     - _TranslucencyViewDependency: 0.6
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.39085817, g: 0.4627451, b: 0, a: 1}
     - _Scale: {r: 1, g: 1, b: 1, a: 1}
     - _TranslucencyColor: {r: 0.8448905, g: 0.89705884, b: 0.70577425, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}

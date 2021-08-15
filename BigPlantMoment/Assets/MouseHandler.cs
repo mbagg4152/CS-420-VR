@@ -14,7 +14,8 @@ public class MouseHandler : MonoBehaviour {
     }
  
     void Update() {
-        float mouseX = Input.GetAxis("Mouse X") * hSpeed;
+        // get values for user mouse input
+        float mouseX = Input.GetAxis("Mouse X") * hSpeed; 
         float mouseY = Input.GetAxis("Mouse Y") * vSpeed;
  
         yRot += mouseX;
