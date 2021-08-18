@@ -12,9 +12,9 @@ public class sampl : MonoBehaviour
     {
         var inputDevices = new List<UnityEngine.XR.InputDevice>();
         UnityEngine.XR.InputDevices.GetDevices(inputDevices);
-        foreach (var device in inputDevices){
-            UnityEngine.Debug.Log(device.name);
-        }
+        // foreach (var device in inputDevices){
+        //     UnityEngine.Debug.Log(device.name);
+        // }
     }
 
     // Update is called once per frame

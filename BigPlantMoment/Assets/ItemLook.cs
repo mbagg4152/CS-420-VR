@@ -18,7 +18,7 @@ public class ItemLook : MonoBehaviour
             var obj = hit.collider.gameObject;
     
             if ((obj.name != "Terrain") && (obj.name != "Game Object")) {
-                Debug.Log($"looking at {obj.name}", this);
+                // Debug.Log($"looking at {obj.name}", this);
             } 
             
         }
