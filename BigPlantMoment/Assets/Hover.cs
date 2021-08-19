@@ -5,7 +5,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Hover : MonoBehaviour {
-    Color mouseColor = new Color(0.75f, 0.44f, 1f, 1f);
+    // Color mouseColor = new Color(0.75f, 0.44f, 1f, 1f);
+    Color mouseColor = new Color(0f, 3f, 3f, 0.5f);
     // Color mouseColor = Color.red;
     List <Color> originals = new List<Color>();
     List <Material> mats = new List<Material>();
@@ -20,8 +21,6 @@ public class Hover : MonoBehaviour {
             rend = GetComponent<MeshRenderer>();
             mats = rend.materials.OfType<Material>().ToList();
         } else {
-
-         
             tforms = this.GetComponentsInChildren<Transform>();
             foreach (Transform tran in tforms){
                 if(tran.GetComponent<MeshRenderer>()){
