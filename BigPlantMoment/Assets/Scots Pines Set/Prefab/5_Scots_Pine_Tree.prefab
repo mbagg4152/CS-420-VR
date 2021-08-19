@@ -91,6 +91,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4283167924308378}
   - component: {fileID: 4852573066047804652}
+  - component: {fileID: 5030824583542521080}
   m_Layer: 0
   m_Name: 5_Scots_Pine_Tree
   m_TagString: Untagged
@@ -130,6 +131,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4c15ac711cfe5c4582ea224d73c256c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!64 &5030824583542521080
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374498709979094}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300010, guid: 25ac1e57822dea042b9cd07c3b32f423, type: 3}
 --- !u!1 &1378232058231184
 GameObject:
   m_ObjectHideFlags: 0

@@ -5,8 +5,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Hover : MonoBehaviour {
-    // Color mouseColor = new Color(0.27f, 0.76f, 1f, 1f);
-    Color mouseColor = Color.red;
+    Color mouseColor = new Color(0.75f, 0.44f, 1f, 1f);
+    // Color mouseColor = Color.red;
     List <Color> originals = new List<Color>();
     List <Material> mats = new List<Material>();
     MeshRenderer rend;

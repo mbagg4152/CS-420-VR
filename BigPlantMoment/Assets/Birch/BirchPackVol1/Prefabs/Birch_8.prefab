@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3381858}
   - component: {fileID: 2386544}
   - component: {fileID: 1519375798903535859}
+  - component: {fileID: -1247000779299291524}
   m_Layer: 0
   m_Name: Birch_8
   m_TagString: Untagged
@@ -28,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 166164}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -26.472282, y: 0.52, z: -1.748705}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -98,3 +99,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4c15ac711cfe5c4582ea224d73c256c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!64 &-1247000779299291524
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166164}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 57cfa17230bf99046b3286979947dbda, type: 3}
