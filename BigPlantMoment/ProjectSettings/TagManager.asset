@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fly Agaric
+  - King Trumpet
+  - Boabab
+  - Birch Tree
+  - Dracaena
+  - Douglass Fir
+  - Scot's Pine
+  - Palm Tree
+  - Rainbow Tree
+  - Acacia
+  - Common Sunflower
+  - Spearmint
+  - Garlic Mustard
+  - Ostrich Fern
+  - Coleus
+  - Arrowhead Plant
   layers:
   - Default
   - TransparentFX

@@ -1,8 +1,11 @@
+using System.Linq.Expressions;
+using System.Reflection.Emit;
 using System;
 using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Hover : MonoBehaviour {
     // Color mouseColor = new Color(0.75f, 0.44f, 1f, 1f);
@@ -13,10 +16,13 @@ public class Hover : MonoBehaviour {
     MeshRenderer rend;
     Transform[] tforms;
     Camera mainCam;
+    Canvas txtCanvas;
+    TextMeshProUGUI label;
 
     void Start() {
         mainCam = Camera.main;
-        
+        label = GameObject.Find("LabelText").GetComponent<TextMeshProUGUI>();
+        label.text = "";
         if (GetComponent<MeshRenderer>()){
             rend = GetComponent<MeshRenderer>();
             mats = rend.materials.OfType<Material>().ToList();
@@ -46,11 +52,13 @@ public class Hover : MonoBehaviour {
                     mat.color = mouseColor;
                 }
             }
+            label.text = this.tag;
         }
             
     }
 
     void OnMouseExit(){
+        label.text = "";
         if (mats.Count > 0){
             int index = 0;
             foreach(Material mat in mats){

@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -8365267293896148438}
   m_Layer: 0
   m_Name: Rakshi_Tree2_4
-  m_TagString: Untagged
+  m_TagString: Boabab
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -85,7 +85,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89

@@ -203,6 +203,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotB
       objectReference: {fileID: 0}
+    - target: {fileID: 1229604903360398, guid: 646ef9415a6e9ad4aa8ddc94b83f8141, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4990144232425846, guid: 646ef9415a6e9ad4aa8ddc94b83f8141, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -335,6 +339,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: acacia1_2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
+      objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -451,6 +459,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PalmG
       objectReference: {fileID: 0}
+    - target: {fileID: 131444, guid: 5e617e90ac28ce7488be6a63235b1f32, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 431444, guid: 5e617e90ac28ce7488be6a63235b1f32, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -513,6 +525,10 @@ PrefabInstance:
     - target: {fileID: 1996467460344916, guid: 425db1e92efed0343953aa6359782534, type: 3}
       propertyPath: m_Name
       value: ScotC (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1996467460344916, guid: 425db1e92efed0343953aa6359782534, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4982325049194136, guid: 425db1e92efed0343953aa6359782534, type: 3}
       propertyPath: m_RootOrder
@@ -609,6 +625,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowC (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -672,6 +692,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowA
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 9b8fc966f95ea9c4194dc091fc40b478, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 9b8fc966f95ea9c4194dc091fc40b478, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -734,6 +758,10 @@ PrefabInstance:
     - target: {fileID: 114418, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
       propertyPath: m_Name
       value: rainbowC
+      objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
       objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
       propertyPath: m_RootOrder
@@ -809,6 +837,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -978,6 +1010,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougB (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -1072,6 +1108,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -1294,6 +1334,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -1401,6 +1445,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotB (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1229604903360398, guid: 646ef9415a6e9ad4aa8ddc94b83f8141, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4990144232425846, guid: 646ef9415a6e9ad4aa8ddc94b83f8141, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -1469,6 +1517,10 @@ PrefabInstance:
     - target: {fileID: 1742154018811768, guid: 904d64b9113679e46b3729056d8dfece, type: 3}
       propertyPath: m_Name
       value: MustardA
+      objectReference: {fileID: 0}
+    - target: {fileID: 1742154018811768, guid: 904d64b9113679e46b3729056d8dfece, type: 3}
+      propertyPath: m_TagString
+      value: Garlic Mustard
       objectReference: {fileID: 0}
     - target: {fileID: 4882383054068492, guid: 904d64b9113679e46b3729056d8dfece, type: 3}
       propertyPath: m_RootOrder
@@ -1561,7 +1613,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 195528836}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 2.66, z: 0}
   m_LocalScale: {x: 0.6, y: 1, z: 0.6}
   m_Children:
   - {fileID: 1725982594}
@@ -1778,6 +1830,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -1847,6 +1903,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowC (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -1910,6 +1970,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotC
       objectReference: {fileID: 0}
+    - target: {fileID: 1996467460344916, guid: 425db1e92efed0343953aa6359782534, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4982325049194136, guid: 425db1e92efed0343953aa6359782534, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1972,6 +2036,10 @@ PrefabInstance:
     - target: {fileID: 114418, guid: be878d9ea17907f4a8068678a5ce7908, type: 3}
       propertyPath: m_Name
       value: rainbowD (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: be878d9ea17907f4a8068678a5ce7908, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
       objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: be878d9ea17907f4a8068678a5ce7908, type: 3}
       propertyPath: m_RootOrder
@@ -2048,6 +2116,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotE (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1374498709979094, guid: da567179e40dcbc4693ac696faa51410, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4283167924308378, guid: da567179e40dcbc4693ac696faa51410, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -2104,6 +2176,10 @@ PrefabInstance:
     - target: {fileID: 118788, guid: 8d67c8074b567ec459905d65232f7154, type: 3}
       propertyPath: m_Name
       value: PalmE
+      objectReference: {fileID: 0}
+    - target: {fileID: 118788, guid: 8d67c8074b567ec459905d65232f7154, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
       objectReference: {fileID: 0}
     - target: {fileID: 418788, guid: 8d67c8074b567ec459905d65232f7154, type: 3}
       propertyPath: m_RootOrder
@@ -2167,6 +2243,10 @@ PrefabInstance:
     - target: {fileID: 1683935375967658, guid: 1831cab2c2baca948b1107b5837709ab, type: 3}
       propertyPath: m_Name
       value: ScotD (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1683935375967658, guid: 1831cab2c2baca948b1107b5837709ab, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4687147295058802, guid: 1831cab2c2baca948b1107b5837709ab, type: 3}
       propertyPath: m_RootOrder
@@ -2236,6 +2316,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
       propertyPath: m_Name
       value: DougC (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
       propertyPath: m_RootOrder
@@ -2331,6 +2415,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
       propertyPath: m_Name
       value: DougC (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
       propertyPath: m_RootOrder
@@ -2503,12 +2591,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320333940}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 195528837}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &320333942
 MonoBehaviour:
@@ -2623,6 +2711,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MintA
       objectReference: {fileID: 0}
+    - target: {fileID: 1418889450074668, guid: 2ef1691b8309b8d4a8e635591e309630, type: 3}
+      propertyPath: m_TagString
+      value: Spearmint
+      objectReference: {fileID: 0}
     - target: {fileID: 4565601168372480, guid: 2ef1691b8309b8d4a8e635591e309630, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -2697,6 +2789,10 @@ PrefabInstance:
     - target: {fileID: 161618, guid: 03566e50eb2d319468a8720030b6bcf6, type: 3}
       propertyPath: m_Name
       value: PalmC
+      objectReference: {fileID: 0}
+    - target: {fileID: 161618, guid: 03566e50eb2d319468a8720030b6bcf6, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
       objectReference: {fileID: 0}
     - target: {fileID: 461618, guid: 03566e50eb2d319468a8720030b6bcf6, type: 3}
       propertyPath: m_RootOrder
@@ -2893,6 +2989,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotC (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1996467460344916, guid: 425db1e92efed0343953aa6359782534, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4982325049194136, guid: 425db1e92efed0343953aa6359782534, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -2961,6 +3061,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -3144,6 +3248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: acacia1_2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
+      objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -3219,6 +3327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotF (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1843901533783444, guid: 13752b2d409d1a2498262c6cc0442736, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4255148271282410, guid: 13752b2d409d1a2498262c6cc0442736, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -3287,6 +3399,10 @@ PrefabInstance:
     - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_Name
       value: acacia1_2 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
       objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
@@ -3363,6 +3479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ColeusD
       objectReference: {fileID: 0}
+    - target: {fileID: 1285452459602148, guid: 31eb5e344ea4f324994fc86d2032c23b, type: 3}
+      propertyPath: m_TagString
+      value: Coleus
+      objectReference: {fileID: 0}
     - target: {fileID: 4588265758646670, guid: 31eb5e344ea4f324994fc86d2032c23b, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3437,6 +3557,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -3584,6 +3708,10 @@ PrefabInstance:
     - target: {fileID: 114418, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
       propertyPath: m_Name
       value: rainbowC (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
       objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 8b2d47fdc2e25ac4f9721480a68bbefa, type: 3}
       propertyPath: m_RootOrder
@@ -3774,6 +3902,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougC
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3961,7 +4093,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 541096545}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
   m_Name: 
@@ -3979,12 +4111,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 541096545}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2fadf230d1919748a9aa21d40f74619, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_TrackingType: 2
+  m_TrackingType: 0
   m_UpdateType: 0
   m_PositionAction:
     m_Name: Position
@@ -4053,6 +4185,10 @@ PrefabInstance:
     - target: {fileID: 119418, guid: 785bfd81c9fb838469851c06eb415f7a, type: 3}
       propertyPath: m_Name
       value: PalmI
+      objectReference: {fileID: 0}
+    - target: {fileID: 119418, guid: 785bfd81c9fb838469851c06eb415f7a, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
       objectReference: {fileID: 0}
     - target: {fileID: 419418, guid: 785bfd81c9fb838469851c06eb415f7a, type: 3}
       propertyPath: m_RootOrder
@@ -4155,6 +4291,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -4249,6 +4389,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -4462,6 +4606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougB (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -4545,7 +4693,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 0240d8417b13dd648a4709b9169abdfe, type: 3}
 --- !u!4 &654083096 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 420660, guid: 72d888884df4b474cab0cc1345140a6f,
@@ -4615,6 +4763,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -4711,6 +4863,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowC
       objectReference: {fileID: 0}
+    - target: {fileID: 1590551766792044, guid: 78e6965d6e188cb498251d824f675c6b, type: 3}
+      propertyPath: m_TagString
+      value: Arrowhead Plant
+      objectReference: {fileID: 0}
     - target: {fileID: 4299578923183086, guid: 78e6965d6e188cb498251d824f675c6b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -4785,6 +4941,10 @@ PrefabInstance:
     - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_Name
       value: acacia1_2 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
       objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
@@ -4959,7 +5119,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &751349641
 PrefabInstance:
@@ -4971,6 +5131,10 @@ PrefabInstance:
     - target: {fileID: 1302056570525786, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
       propertyPath: m_Name
       value: ScotG (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302056570525786, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4924641141601518, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
       propertyPath: m_RootOrder
@@ -5040,6 +5204,10 @@ PrefabInstance:
     - target: {fileID: 1112162343450436, guid: edc67c3f81dcc6c4c8841676c8a0edcb, type: 3}
       propertyPath: m_Name
       value: ArrowB
+      objectReference: {fileID: 0}
+    - target: {fileID: 1112162343450436, guid: edc67c3f81dcc6c4c8841676c8a0edcb, type: 3}
+      propertyPath: m_TagString
+      value: Arrowhead Plant
       objectReference: {fileID: 0}
     - target: {fileID: 4994179056639378, guid: edc67c3f81dcc6c4c8841676c8a0edcb, type: 3}
       propertyPath: m_RootOrder
@@ -5191,6 +5359,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -5287,6 +5459,140 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+--- !u!1 &777052380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 777052381}
+  - component: {fileID: 777052383}
+  - component: {fileID: 777052382}
+  m_Layer: 5
+  m_Name: LabelText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &777052381
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777052380}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1157628136}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &777052382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777052380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Label
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 1
+  m_colorMode: 0
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 20
+  m_fontSizeBase: 20
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 4096
+  m_textAlignment: 65535
+  m_characterSpacing: 5
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &777052383
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777052380}
+  m_CullTransparentMesh: 1
 --- !u!1001 &783335537
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5297,6 +5603,10 @@ PrefabInstance:
     - target: {fileID: 155934, guid: 2ed7cc7e3c944414d8f3fabb4d533018, type: 3}
       propertyPath: m_Name
       value: PalmB
+      objectReference: {fileID: 0}
+    - target: {fileID: 155934, guid: 2ed7cc7e3c944414d8f3fabb4d533018, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
       objectReference: {fileID: 0}
     - target: {fileID: 455934, guid: 2ed7cc7e3c944414d8f3fabb4d533018, type: 3}
       propertyPath: m_RootOrder
@@ -5360,6 +5670,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -5461,6 +5775,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -5575,6 +5893,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PalmF
       objectReference: {fileID: 0}
+    - target: {fileID: 151538, guid: b22d7dcea44833b4ab41d64beb6e42c8, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 451538, guid: b22d7dcea44833b4ab41d64beb6e42c8, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -5637,6 +5959,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
       propertyPath: m_Name
       value: DougA (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
       propertyPath: m_RootOrder
@@ -5813,6 +6139,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: acacia1_2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
+      objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -5937,6 +6267,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougB (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -6038,6 +6372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowA (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 9b8fc966f95ea9c4194dc091fc40b478, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 9b8fc966f95ea9c4194dc091fc40b478, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -6100,6 +6438,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -6195,6 +6537,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -6303,6 +6649,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -6410,6 +6760,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SunA
       objectReference: {fileID: 0}
+    - target: {fileID: 1925756685828506, guid: d1347b042694f35418369a20f238b334, type: 3}
+      propertyPath: m_TagString
+      value: Common Sunflower
+      objectReference: {fileID: 0}
     - target: {fileID: 4405201740281218, guid: d1347b042694f35418369a20f238b334, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -6496,6 +6850,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowA (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 9b8fc966f95ea9c4194dc091fc40b478, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 9b8fc966f95ea9c4194dc091fc40b478, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -6556,7 +6914,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 963194228}
+  - component: {fileID: 963194232}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
@@ -6619,20 +6977,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!4 &963194228
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.962, z: 0.19}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1725982594}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6666,6 +7010,91 @@ MonoBehaviour:
   mask:
     serializedVersion: 2
     m_Bits: 1
+--- !u!224 &963194232
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.19}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1725982594}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0.962}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &966616888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 966616891}
+  - component: {fileID: 966616890}
+  - component: {fileID: 966616889}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &966616889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966616888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &966616890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966616888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &966616891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966616888}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &970213409 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 420660, guid: 72d888884df4b474cab0cc1345140a6f,
@@ -6739,6 +7168,10 @@ PrefabInstance:
     - target: {fileID: 1666640010108120, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
       propertyPath: m_Name
       value: ScotA
+      objectReference: {fileID: 0}
+    - target: {fileID: 1666640010108120, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4377151929345642, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
       propertyPath: m_RootOrder
@@ -6888,6 +7321,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -6995,6 +7432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougB
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -7089,6 +7530,10 @@ PrefabInstance:
     - target: {fileID: 1302056570525786, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
       propertyPath: m_Name
       value: ScotG
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302056570525786, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4924641141601518, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
       propertyPath: m_RootOrder
@@ -7216,7 +7661,7 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.20982002}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1049418107 stripped
 Transform:
@@ -7273,6 +7718,10 @@ PrefabInstance:
     - target: {fileID: 1408155266599826, guid: aa078ff644365454fafb3ca464c6539f, type: 3}
       propertyPath: m_Name
       value: SunB
+      objectReference: {fileID: 0}
+    - target: {fileID: 1408155266599826, guid: aa078ff644365454fafb3ca464c6539f, type: 3}
+      propertyPath: m_TagString
+      value: Common Sunflower
       objectReference: {fileID: 0}
     - target: {fileID: 4100995593744972, guid: aa078ff644365454fafb3ca464c6539f, type: 3}
       propertyPath: m_RootOrder
@@ -7412,6 +7861,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotH (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1548411562218812, guid: ab3b87cc334853443ab2ca9d10aecc4d, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4378733224210288, guid: ab3b87cc334853443ab2ca9d10aecc4d, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -7480,6 +7933,10 @@ PrefabInstance:
     - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_Name
       value: acacia1_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
       objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
@@ -7815,6 +8272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougA
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -7910,6 +8371,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PalmD
       objectReference: {fileID: 0}
+    - target: {fileID: 124274, guid: 20ddc844cd25b244f8005cba06955856, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 424274, guid: 20ddc844cd25b244f8005cba06955856, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -7962,6 +8427,106 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1152443382}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1157628135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1157628136}
+  - component: {fileID: 1157628139}
+  - component: {fileID: 1157628138}
+  - component: {fileID: 1157628137}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1157628136
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157628135}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 777052381}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &1157628137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157628135}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 0
+--- !u!114 &1157628138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157628135}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 2
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 1
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1157628139
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157628135}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 1
+  m_Camera: {fileID: 963194227}
+  m_PlaneDistance: 0.6
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!1001 &1160326444
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8030,6 +8595,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -8092,6 +8661,10 @@ PrefabInstance:
     - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_Name
       value: King
+      objectReference: {fileID: 0}
+    - target: {fileID: 1596872523515200, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
+      propertyPath: m_TagString
+      value: King Trumpet
       objectReference: {fileID: 0}
     - target: {fileID: 4100683814371560, guid: dea84a3662be77b4bad1db42d2b32262, type: 3}
       propertyPath: m_RootOrder
@@ -8174,6 +8747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -8248,6 +8825,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
       propertyPath: m_Name
       value: DougC (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d2afb700ab12fcc4db5b9567f3a698dd, type: 3}
       propertyPath: m_RootOrder
@@ -8476,6 +9057,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowD
       objectReference: {fileID: 0}
+    - target: {fileID: 1361617451313638, guid: ef90a9f19bf8c2548b2c3ee012427c17, type: 3}
+      propertyPath: m_TagString
+      value: Arrowhead Plant
+      objectReference: {fileID: 0}
     - target: {fileID: 4847682239161286, guid: ef90a9f19bf8c2548b2c3ee012427c17, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -8688,6 +9273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -8794,6 +9383,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -8902,6 +9495,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ColeusA
       objectReference: {fileID: 0}
+    - target: {fileID: 1423113368078026, guid: 3f9c52e3c34c21e4f8af8b507f549241, type: 3}
+      propertyPath: m_TagString
+      value: Coleus
+      objectReference: {fileID: 0}
     - target: {fileID: 4225389989137070, guid: 3f9c52e3c34c21e4f8af8b507f549241, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -8983,6 +9580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotF
       objectReference: {fileID: 0}
+    - target: {fileID: 1843901533783444, guid: 13752b2d409d1a2498262c6cc0442736, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4255148271282410, guid: 13752b2d409d1a2498262c6cc0442736, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -9063,6 +9664,10 @@ PrefabInstance:
     - target: {fileID: 1374498709979094, guid: da567179e40dcbc4693ac696faa51410, type: 3}
       propertyPath: m_Name
       value: ScotE
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374498709979094, guid: da567179e40dcbc4693ac696faa51410, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4283167924308378, guid: da567179e40dcbc4693ac696faa51410, type: 3}
       propertyPath: m_RootOrder
@@ -9259,6 +9864,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PalmJ
       objectReference: {fileID: 0}
+    - target: {fileID: 109766, guid: 38291ecd3571d294ead9e9d15c345a6d, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 409766, guid: 38291ecd3571d294ead9e9d15c345a6d, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -9327,6 +9936,10 @@ PrefabInstance:
     - target: {fileID: 1317820373859908, guid: 021c3b1c13d77614c9bf9597c35b291a, type: 3}
       propertyPath: m_Name
       value: MustardC
+      objectReference: {fileID: 0}
+    - target: {fileID: 1317820373859908, guid: 021c3b1c13d77614c9bf9597c35b291a, type: 3}
+      propertyPath: m_TagString
+      value: Garlic Mustard
       objectReference: {fileID: 0}
     - target: {fileID: 4931441274650218, guid: 021c3b1c13d77614c9bf9597c35b291a, type: 3}
       propertyPath: m_RootOrder
@@ -9442,6 +10055,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -9815,6 +10432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SunC
       objectReference: {fileID: 0}
+    - target: {fileID: 1862248699669288, guid: 5cca0f87b37f2a34d8fc3fcb91096bfd, type: 3}
+      propertyPath: m_TagString
+      value: Common Sunflower
+      objectReference: {fileID: 0}
     - target: {fileID: 4288660843610852, guid: 5cca0f87b37f2a34d8fc3fcb91096bfd, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -9883,6 +10504,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -9990,6 +10615,10 @@ PrefabInstance:
     - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_Name
       value: acacia1_2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
       objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
@@ -10133,6 +10762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: acacia1_2 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
+      objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -10200,6 +10833,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowB (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 956bd2acf7aae244dac8fc20cf57858d, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 956bd2acf7aae244dac8fc20cf57858d, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -10263,6 +10900,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -10325,6 +10966,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 6a08450e9ce0dde4a8c7594f7297582a, type: 3}
       propertyPath: m_Name
       value: DougD (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6a08450e9ce0dde4a8c7594f7297582a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6a08450e9ce0dde4a8c7594f7297582a, type: 3}
       propertyPath: m_RootOrder
@@ -10421,6 +11066,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougB (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 232a1ed44805e2d4eb99372b65201d9a, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -10516,6 +11165,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: acacia1_2 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
+      objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -10603,6 +11256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MustardB
       objectReference: {fileID: 0}
+    - target: {fileID: 1393059315734960, guid: f889caeaf75635c4c81082276d00696a, type: 3}
+      propertyPath: m_TagString
+      value: Garlic Mustard
+      objectReference: {fileID: 0}
     - target: {fileID: 4040437465102496, guid: f889caeaf75635c4c81082276d00696a, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -10678,6 +11335,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowA
       objectReference: {fileID: 0}
+    - target: {fileID: 1344273925855232, guid: 7eb476c946379894282790b3711f5edd, type: 3}
+      propertyPath: m_TagString
+      value: Arrowhead Plant
+      objectReference: {fileID: 0}
     - target: {fileID: 4824685203744198, guid: 7eb476c946379894282790b3711f5edd, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -10752,6 +11413,10 @@ PrefabInstance:
     - target: {fileID: 1302056570525786, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
       propertyPath: m_Name
       value: ScotG (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1302056570525786, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4924641141601518, guid: 78c0f7558162b2e4f8fe78f310d1c33f, type: 3}
       propertyPath: m_RootOrder
@@ -10879,6 +11544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotD
       objectReference: {fileID: 0}
+    - target: {fileID: 1683935375967658, guid: 1831cab2c2baca948b1107b5837709ab, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4687147295058802, guid: 1831cab2c2baca948b1107b5837709ab, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -10954,6 +11623,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PalmA
       objectReference: {fileID: 0}
+    - target: {fileID: 137888, guid: ecc2762d91d3584429565bde5fbede9e, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 437888, guid: ecc2762d91d3584429565bde5fbede9e, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -11016,6 +11689,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
       propertyPath: m_Name
       value: DougA (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
       propertyPath: m_RootOrder
@@ -11123,6 +11800,10 @@ PrefabInstance:
     - target: {fileID: 1374498709979094, guid: da567179e40dcbc4693ac696faa51410, type: 3}
       propertyPath: m_Name
       value: ScotE (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374498709979094, guid: da567179e40dcbc4693ac696faa51410, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4283167924308378, guid: da567179e40dcbc4693ac696faa51410, type: 3}
       propertyPath: m_RootOrder
@@ -11241,6 +11922,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -11377,7 +12062,7 @@ Transform:
   - {fileID: 714790917}
   - {fileID: 1146665290}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1670278580
 PrefabInstance:
@@ -11389,6 +12074,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -11523,6 +12212,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougD (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6a08450e9ce0dde4a8c7594f7297582a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6a08450e9ce0dde4a8c7594f7297582a, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -11617,6 +12310,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -11756,11 +12453,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1725982592}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 2.5, z: 0}
+  m_LocalScale: {x: 0.6, y: 1, z: 0.6}
   m_Children:
-  - {fileID: 963194228}
+  - {fileID: 963194232}
   - {fileID: 541096546}
   - {fileID: 1728657556}
   m_Father: {fileID: 195528837}
@@ -11821,7 +12518,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1728657555}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
   m_Name: 
@@ -11839,7 +12536,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1728657555}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2fadf230d1919748a9aa21d40f74619, type: 3}
   m_Name: 
@@ -11872,6 +12569,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -12100,6 +12801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: acacia1_2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
+      objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -12174,6 +12879,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -12282,6 +12991,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotH
       objectReference: {fileID: 0}
+    - target: {fileID: 1548411562218812, guid: ab3b87cc334853443ab2ca9d10aecc4d, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4378733224210288, guid: ab3b87cc334853443ab2ca9d10aecc4d, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -12384,6 +13097,10 @@ PrefabInstance:
     - target: {fileID: 1902311598225028, guid: cfff9b191744b2e468809f655a6a7b32, type: 3}
       propertyPath: m_Name
       value: MintC
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902311598225028, guid: cfff9b191744b2e468809f655a6a7b32, type: 3}
+      propertyPath: m_TagString
+      value: Spearmint
       objectReference: {fileID: 0}
     - target: {fileID: 4835021124550630, guid: cfff9b191744b2e468809f655a6a7b32, type: 3}
       propertyPath: m_RootOrder
@@ -12504,6 +13221,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ColeusB
       objectReference: {fileID: 0}
+    - target: {fileID: 1187521801138726, guid: f6a2fa24db8591b478c6dbf9afb466d5, type: 3}
+      propertyPath: m_TagString
+      value: Coleus
+      objectReference: {fileID: 0}
     - target: {fileID: 4567481687228246, guid: f6a2fa24db8591b478c6dbf9afb466d5, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -12579,6 +13300,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: acacia1_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1458083406345086, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
+      propertyPath: m_TagString
+      value: Acacia
+      objectReference: {fileID: 0}
     - target: {fileID: 4935882871814408, guid: 7f3ed28755306714c8c5308e9f757276, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -12653,6 +13378,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -12760,6 +13489,10 @@ PrefabInstance:
     - target: {fileID: 1110030277547600, guid: 760217d773ca56e44afd862b8ed159fc, type: 3}
       propertyPath: m_Name
       value: ColeusC
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110030277547600, guid: 760217d773ca56e44afd862b8ed159fc, type: 3}
+      propertyPath: m_TagString
+      value: Coleus
       objectReference: {fileID: 0}
     - target: {fileID: 4314861399587856, guid: 760217d773ca56e44afd862b8ed159fc, type: 3}
       propertyPath: m_RootOrder
@@ -12875,6 +13608,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougD
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6a08450e9ce0dde4a8c7594f7297582a, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6a08450e9ce0dde4a8c7594f7297582a, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -12969,6 +13706,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -13134,6 +13875,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DougA (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
+      propertyPath: m_TagString
+      value: Douglass Fir
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5463c855c66b2f740b4bc4c6379e0f97, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -13280,6 +14025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowB
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: 956bd2acf7aae244dac8fc20cf57858d, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: 956bd2acf7aae244dac8fc20cf57858d, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -13342,6 +14091,10 @@ PrefabInstance:
     - target: {fileID: 1564992052565124, guid: de4c16ea9cb4a7e4e9881bc1d8a4b465, type: 3}
       propertyPath: m_Name
       value: MintB
+      objectReference: {fileID: 0}
+    - target: {fileID: 1564992052565124, guid: de4c16ea9cb4a7e4e9881bc1d8a4b465, type: 3}
+      propertyPath: m_TagString
+      value: Spearmint
       objectReference: {fileID: 0}
     - target: {fileID: 4531733660005648, guid: de4c16ea9cb4a7e4e9881bc1d8a4b465, type: 3}
       propertyPath: m_RootOrder
@@ -13491,6 +14244,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rainbowD
       objectReference: {fileID: 0}
+    - target: {fileID: 114418, guid: be878d9ea17907f4a8068678a5ce7908, type: 3}
+      propertyPath: m_TagString
+      value: Rainbow Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 481256, guid: be878d9ea17907f4a8068678a5ce7908, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -13553,6 +14310,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -13622,6 +14383,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -13730,6 +14495,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -13825,6 +14594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PalmH
       objectReference: {fileID: 0}
+    - target: {fileID: 130684, guid: b9a200fc20bd2b54392b467e9411a431, type: 3}
+      propertyPath: m_TagString
+      value: Palm Tree
+      objectReference: {fileID: 0}
     - target: {fileID: 430684, guid: b9a200fc20bd2b54392b467e9411a431, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -13887,6 +14660,10 @@ PrefabInstance:
     - target: {fileID: 1666640010108120, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
       propertyPath: m_Name
       value: ScotA (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1666640010108120, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
       objectReference: {fileID: 0}
     - target: {fileID: 4377151929345642, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
       propertyPath: m_RootOrder
@@ -14031,6 +14808,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
@@ -14253,6 +15034,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FernA (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -14322,6 +15107,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScotA (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1666640010108120, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
+      propertyPath: m_TagString
+      value: Scot's Pine
+      objectReference: {fileID: 0}
     - target: {fileID: 4377151929345642, guid: 7d448c0e4a9b9554c99b64d65bfe4560, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -14390,6 +15179,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_Name
       value: FernA
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
+      propertyPath: m_TagString
+      value: Ostrich Fern
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dad0b53bfba5bf148b12cdfa48770c8a, type: 3}
       propertyPath: m_RootOrder
