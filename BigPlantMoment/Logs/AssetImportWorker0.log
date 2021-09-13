@@ -2428,3 +2428,52 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1951.655897 seconds.
+  path: Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Bush_01.prefab
+  artifactKey: Guid(a97c402f591eca34b9d6b591c04a86ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Bush_01.prefab using Guid(a97c402f591eca34b9d6b591c04a86ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a9c28567df5308d0260cbdf6fdc641') in 0.149287 seconds 
+  Import took 0.159933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Weeds_01.prefab
+  artifactKey: Guid(7725f3f138a7c894ea548a73c1dfa560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Weeds_01.prefab using Guid(7725f3f138a7c894ea548a73c1dfa560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce55501601cbf82881c6168c26e6988') in 0.034382 seconds 
+  Import took 0.042997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Grass_01.prefab
+  artifactKey: Guid(26ef71e178a237b4a8555d2a041e60a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Grass_01.prefab using Guid(26ef71e178a237b4a8555d2a041e60a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9a94fa21880935d34a8e41df2e0fc4') in 0.041626 seconds 
+  Import took 0.050366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Weeds_02.prefab
+  artifactKey: Guid(115bdfc21403c4e479b2b757d032c282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Ninja/Stykized Vegetation Pack Free/Prefabs/Weeds_02.prefab using Guid(115bdfc21403c4e479b2b757d032c282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9aa92c62a77e4d5255f3b5b1a2309a') in 0.037635 seconds 
+  Import took 0.046028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.274131 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f463cb438566eb920f2bbff9490d7462') in 0.006025 seconds 
+  Import took 0.015576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014860 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f463cb438566eb920f2bbff9490d7462') in 0.006504 seconds 
+  Import took 0.015511 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
