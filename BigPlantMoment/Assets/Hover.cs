@@ -1,4 +1,3 @@
-
 using System.Text.RegularExpressions;
 using System.Reflection.Emit;
 using System;
@@ -60,14 +59,14 @@ public class Hover : MonoBehaviour {
 
         double dist2 = Math.Sqrt(Math.Pow((mx-tx),2)+Math.Pow((mz-tz),2));
 
-        if (dist2 <= 15){
-            if (mats.Count > 0){
-                foreach(Material mat in mats){
-                    if (mat.color != null){
-                        mat.color = mouseColor;
-                    }
-                }
-            }
+        if (dist <= 10){
+            // if (mats.Count > 0){
+            //     foreach(Material mat in mats){
+            //         if (mat.color != null){
+            //             mat.color = mouseColor;
+            //         }
+            //     }
+            // }
             label.text = this.tag;
             qmark.enabled = true;
         }
@@ -86,5 +85,11 @@ public class Hover : MonoBehaviour {
                 index++;
             }
         }
+    }
+
+
+
+    void OnMouseDown(){
+        Debug.Log("Object of type " + this.tag + " clicked on");
     }
 }
