@@ -10,7 +10,7 @@ using TMPro;
 using UnityEngine.UI;
 public class Hover : MonoBehaviour {
     // Color mouseColor = new Color(0.75f, 0.44f, 1f, 1f);
-    Color mouseColor = new Color(0f, 3f, 3f, 0.5f);
+    Color mouseColor = new Color(0f, 1f, 1f, 0.5f);
     // Color mouseColor = Color.red;
     List <Color> originals = new List<Color>();
     List <Material> mats = new List<Material>();

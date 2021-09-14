@@ -10,7 +10,6 @@ public class MouseHandler : MonoBehaviour {
  
     void Start() {
         mainCam = Camera.main;
-        Debug.Log("Current camera type is " + Camera.main.cameraType);
     }
  
     void Update() {
