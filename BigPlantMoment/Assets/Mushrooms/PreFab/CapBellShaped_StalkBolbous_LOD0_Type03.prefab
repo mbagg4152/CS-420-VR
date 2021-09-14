@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2333080}
   - component: {fileID: -2906139137180342481}
   - component: {fileID: -346784556959673019}
+  - component: {fileID: 1269423137095781836}
   m_Layer: 0
   m_Name: CapBellShaped_StalkBolbous_LOD0_Type03
   m_TagString: Plantpot dapperling
@@ -104,8 +105,22 @@ MeshCollider:
   m_GameObject: {fileID: 169926}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: ba1428e706097d448a95acf86b52e192, type: 3}
+--- !u!136 &1269423137095781836
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169926}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.0875872
+  m_Height: 0.314926
+  m_Direction: 1
+  m_Center: {x: -0.01622045, y: 0.13511874, z: -0.0008177236}
