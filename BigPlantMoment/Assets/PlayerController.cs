@@ -1,5 +1,3 @@
-
-
 using UnityEngine;
  
 public class PlayerController : MonoBehaviour {
@@ -15,22 +13,14 @@ public class PlayerController : MonoBehaviour {
         control = GetComponent<CharacterController>();
         mainCam  = Camera.main;
     }
-  void OnGUI(){
-     if(GUI.Button(new Rect(10,10,40,20),"Test")){
-         Debug.Log("test button");
-     }
-  }
+
     void Update() {
-       
         hPos = Input.GetAxis("Horizontal") * mvmtSpeed; // horizontal axis position
-        vPos = Input.GetAxis("Vertical") * mvmtSpeed; // vertical axis position
-        var hAxisValue = Input.GetAxis("XRI_Left_Secondary2DAxis_Horizontal");
-        if (hAxisValue != 0){
-            Debug.Log(hAxisValue);
-        }
+        vPos = Input.GetAxis("Vertical") * mvmtSpeed * -1; // vertical axis position
+   
         // change movements relative to camera
         vRight = mainCam.transform.right * hPos * mvmtSpeed; // get horizontal movement from player input & camera position
-        vForward = mainCam.transform.forward * vPos * mvmtSpeed; // get vertical movement from player input & camera position  
+        vForward = mainCam.transform.forward * vPos * mvmtSpeed ; // get vertical movement from player input & camera position  
 
         control.Move((vRight + vForward) * Time.deltaTime); // move using relative vectors
  
