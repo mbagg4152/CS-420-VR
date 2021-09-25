@@ -1015,7 +1015,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 131444, guid: 5e617e90ac28ce7488be6a63235b1f32, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 431444, guid: 5e617e90ac28ce7488be6a63235b1f32, type: 3}
       propertyPath: m_RootOrder
@@ -5421,7 +5421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 118788, guid: 8d67c8074b567ec459905d65232f7154, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 418788, guid: 8d67c8074b567ec459905d65232f7154, type: 3}
       propertyPath: m_RootOrder
@@ -6038,6 +6038,7 @@ GameObject:
   - component: {fileID: 320333944}
   - component: {fileID: 320333943}
   - component: {fileID: 320333946}
+  - component: {fileID: 320333942}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -6060,6 +6061,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &320333942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320333940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6f35ca82637d284ebce51b35b6fc043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &320333943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6230,7 +6243,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 161618, guid: 03566e50eb2d319468a8720030b6bcf6, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 461618, guid: 03566e50eb2d319468a8720030b6bcf6, type: 3}
       propertyPath: m_RootOrder
@@ -10644,7 +10657,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 119418, guid: 785bfd81c9fb838469851c06eb415f7a, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 419418, guid: 785bfd81c9fb838469851c06eb415f7a, type: 3}
       propertyPath: m_RootOrder
@@ -13881,7 +13894,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_VerticalAlignment: 1024
   m_textAlignment: 65535
   m_characterSpacing: 5
   m_wordSpacing: 0
@@ -14020,7 +14033,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 155934, guid: 2ed7cc7e3c944414d8f3fabb4d533018, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 455934, guid: 2ed7cc7e3c944414d8f3fabb4d533018, type: 3}
       propertyPath: m_RootOrder
@@ -14472,7 +14485,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 151538, guid: b22d7dcea44833b4ab41d64beb6e42c8, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 451538, guid: b22d7dcea44833b4ab41d64beb6e42c8, type: 3}
       propertyPath: m_RootOrder
@@ -21169,7 +21182,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 124274, guid: 20ddc844cd25b244f8005cba06955856, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 424274, guid: 20ddc844cd25b244f8005cba06955856, type: 3}
       propertyPath: m_RootOrder
@@ -25409,7 +25422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 109766, guid: 38291ecd3571d294ead9e9d15c345a6d, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 409766, guid: 38291ecd3571d294ead9e9d15c345a6d, type: 3}
       propertyPath: m_RootOrder
@@ -29553,7 +29566,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 137888, guid: ecc2762d91d3584429565bde5fbede9e, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 437888, guid: ecc2762d91d3584429565bde5fbede9e, type: 3}
       propertyPath: m_RootOrder
@@ -30890,7 +30903,7 @@ MeshCollider:
   m_GameObject: {fileID: 1680996923}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
@@ -30901,6 +30914,20 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1832457161}
   m_PrefabAsset: {fileID: 0}
+--- !u!136 &1680996927
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1680996923}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 0.72126037
+  m_Height: 13.163323
+  m_Direction: 1
+  m_Center: {x: 0.23774548, y: 5.9261246, z: 5.1465485e-15}
 --- !u!1001 &1683342314
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37655,7 +37682,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 130684, guid: b9a200fc20bd2b54392b467e9411a431, type: 3}
       propertyPath: m_TagString
-      value: Palm Tree
+      value: Coconut palm
       objectReference: {fileID: 0}
     - target: {fileID: 430684, guid: b9a200fc20bd2b54392b467e9411a431, type: 3}
       propertyPath: m_RootOrder
