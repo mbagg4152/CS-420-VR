@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour {
     float hPos = 0; 
     float vPos = 0;
     Vector3  vRight, vForward;
+    
     private void Start() {
         control = GetComponent<CharacterController>();
         mainCam  = Camera.main;
@@ -16,7 +17,7 @@ public class PlayerController : MonoBehaviour {
 
     void Update() {
         hPos = Input.GetAxis("Horizontal") * mvmtSpeed; // horizontal axis position
-        vPos = Input.GetAxis("Vertical") * mvmtSpeed * -1; // vertical axis position
+        vPos = Input.GetAxis("Vertical") * mvmtSpeed * -1; // vertical axis position. multiply by -1 because joystick values were reversed
    
         // change movements relative to camera
         vRight = mainCam.transform.right * hPos * mvmtSpeed; // get horizontal movement from player input & camera position
